@@ -31,26 +31,3 @@ I enjoy designing systems that turn raw data into reliable, structured, and quer
 </p>
 
 ---
-
-## Featured Projects
-
-### 1. Airflow ETL Pipeline to Deploy on AWS
-🔗 https://github.com/ayushshah2288/Airflow-ETL-Pipeline-to-Deploy-on-AWS  
-Designed and implemented an ETL pipeline using **Apache Airflow**, deployed on **AWS** for robust data ingestion and transformation.
-
-### 2. Kafka Producer and Consumer (Python)
-🔗 https://github.com/ayushshah2288/Kafka-Producer-and-Consumer-python-Code  
-Developed Python-based Kafka producers and consumers for efficient **real-time data streaming**.
-
-### 3. HR Recruitment Automation System
-🔗 https://github.com/ayushshah2288/HR-Recruitment-Automation-System  
-Engineered a system to automate HR recruitment processes, focusing on **data management and workflow optimization**.
-
----
-
-
-## 🤝 Let’s Connect
-
-- 📧 **Email:** ayushshah2288@gmail.com  
-- 💼 **LinkedIn:** https://linkedin.com/in/ayushshah2288  
-- 🧑‍💻 **GitHub:** https://github.com/ayushshah2288  
