@@ -2,7 +2,7 @@
 
 I’m **Ayush Shah**, a **Data Engineering–focused engineer** with hands-on experience in building **ETL pipelines**, **cloud-based data workflows**, and **analytics-ready datasets** using **Python, SQL, and modern data platforms**.
 
-I enjoy designing systems that turn raw data into reliable, structured, and query-ready outputs — with a strong focus on **clarity, scalability, and maintainability**.
+I enjoy designing systems that turn raw data into reliable, structured, and query-ready outputs with a strong focus on **clarity, scalability, and maintainability**.
 
 ---
 
